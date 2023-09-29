@@ -19,18 +19,20 @@ Acá se explica la funcionalidad de cada clase:
 | VideoGameDecorator | Este decorador es el base, implementa la clase VideoGame, y lo recibe como parámetro en el constructor, y siempre utiliza override void Play() para realizar la acción Play de la clase padre |
 |                    |                                                              |
 
-` public abstract class Videogame
+
+
+```c#
+ public abstract class Videogame
  {
      public string Name { get; protected set; }
      public decimal Price { get; protected set; }
-
-     public abstract void Play();
-
- }`
+ 	 public abstract void Play();
+ }
+```
 
 ### Autores:
 
-- Miriam Leticia Cutzal Otzoy / Carné 0910-
+- Miriam Leticia Cutzal Otzoy / Carné 0910-20-10619
 
 - Emilio Andrés Hernández / Carné 0910-20-19375
 - Byron Felipe Jutzutz Sepet / Carné 0910-20-1189
