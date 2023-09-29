@@ -1,0 +1,14 @@
+D:\Universidad\ANALISIS2\videojuegos\bin\Debug\net6.0\videojuegos.exe
+D:\Universidad\ANALISIS2\videojuegos\bin\Debug\net6.0\videojuegos.deps.json
+D:\Universidad\ANALISIS2\videojuegos\bin\Debug\net6.0\videojuegos.runtimeconfig.json
+D:\Universidad\ANALISIS2\videojuegos\bin\Debug\net6.0\videojuegos.dll
+D:\Universidad\ANALISIS2\videojuegos\bin\Debug\net6.0\videojuegos.pdb
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.AssemblyInfoInputs.cache
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.AssemblyInfo.cs
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.csproj.CoreCompileInputs.cache
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.dll
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\refint\videojuegos.dll
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.pdb
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\videojuegos.genruntimeconfig.cache
+D:\Universidad\ANALISIS2\videojuegos\obj\Debug\net6.0\ref\videojuegos.dll
