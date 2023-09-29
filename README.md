@@ -16,12 +16,22 @@ Acá se explica la funcionalidad de cada clase:
 | BaseGame           | Clase pública que implementa la clase VideoGame, setea las propiedades desde el constructor, y utiliza override void para reemplazar el método Play(). |
 | DiscountDecorator  | Decorador que recibe el videojuego como parámetro, y el descuento en decimal. Luego en el método override void Play(), llama al método de la clase Padre, e imprime en consola que se aplicó un descuento y cuál es el nuevo precio. |
 | DLCDecorator       | Este decorador agrega contenido descargable al videojuego. Y le agrega un valor agregado al precio original. Agrega 15 dólares al precio. |
-| VideoGameDecorator | Este decorador es el base, implementa la clase VideoGame, y lo recibe como parámetro en el constructor, y siempre utiliza override void Play() para realizar la acción Play de la clase padre. |
+| VideoGameDecorator | Este decorador es el base, implementa la clase VideoGame, y lo recibe como parámetro en el constructor, y siempre utiliza override void Play() para realizar la acción Play de la clase padre |
 |                    |                                                              |
+
+` public abstract class Videogame
+ {
+     public string Name { get; protected set; }
+     public decimal Price { get; protected set; }
+
+     public abstract void Play();
+
+ }`
 
 ### Autores:
 
-- Emilio Andrés Hernández / Carné 0910-20-19375
 - Miriam Leticia Cutzal Otzoy / Carné 0910-
-- Byron Felipe Jutzutz / Carné 0910-
-- Jonás Rangel Colón / Carné 0910-
+
+- Emilio Andrés Hernández / Carné 0910-20-19375
+- Byron Felipe Jutzutz Sepet / Carné 0910-20-1189
+- Jonás Rangel Colón / Carné 0910-20-11094
