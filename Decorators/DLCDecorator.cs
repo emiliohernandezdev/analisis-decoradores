@@ -15,7 +15,7 @@ namespace videojuegos.Decorators
         public override void Play()
         {
             base.Play();
-            Console.Write($"Se agrega contenido descargable: {downloadableContent}");
+            Console.Write($"Se agrega contenido descargable: {downloadableContent}. Nuevo precio: {Price}");
         }
     }
 }
